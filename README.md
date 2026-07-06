@@ -36,7 +36,7 @@ The final dashboard includes multiple visualizations to summarize the analysis:
 
 > **Dashboard Preview**
 
-![Zomato Dashboard](zomato_dashboard.png)
+![Zomato Dashboard](zomato-dashboard.png)
 
 ---
 
