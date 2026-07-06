@@ -68,8 +68,8 @@ The final dashboard includes multiple visualizations to summarize the analysis:
 ```text
 Zomato_EDA/
 │
-├── zomato_restaurant_eda.ipynb
-├── zomato_dashboard.png
+├── zomato-restaurant-eda.ipynb
+├── zomato-dashboard.png
 ├── README.md
 └── requirements.txt
 ```
