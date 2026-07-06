@@ -99,6 +99,18 @@ Zomato_EDA/
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Zomato Dataset** available on Kaggle.
+
+**Source:** https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset
+
+**License:** CC0: Public Domain
+
+The dataset is publicly available under the CC0 Public Domain license and has been used for exploratory data analysis and educational purposes.
+
+
+
 ## 👨‍💻 Author
 
 **Tejas Saini**
